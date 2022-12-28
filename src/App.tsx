@@ -6,7 +6,7 @@ import { Counter } from './ClickCounter'
 export const App = () => {
   return (
     <>
-      <h1>MMB AKILA - {process.env.NODE_ENV}</h1>
+      <h1>React TypeScript Webpack - Setup From Scratch - {process.env.NODE_ENV}</h1>
       <h1>NAME - {process.env.name}</h1>
       <img src={IMAGE} alt="React Logo" width="300" />
       <img src={LOGO} alt="React Logo" width="300" />
